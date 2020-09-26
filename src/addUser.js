@@ -1,3 +1,7 @@
 const addUser=()=>{
-    console.log("kydo1 pro");
+    console.log("kydo pro");
+}
+
+const deleteUser=()=>{
+    console.log("kydo");
 }
